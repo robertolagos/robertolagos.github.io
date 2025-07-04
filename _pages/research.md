@@ -4,8 +4,8 @@ title: "Research"
 exerpt: ""
 author_profile: true
 ---
-### Working papers
+### Working Papers
 [Learning in the Shadows: Informality and Entrepreneurship in Brazil](/files/Informality_Draft.pdf) (with Yanran Guo)
 
-### Work in progress
+### Works in Progress
 Tax Reform in the Presence of Informality in Brazil (Job Market Paper).
