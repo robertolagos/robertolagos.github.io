@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of North Carolina at Chapel Hill. My research focuses on informality and taxation policy.
+I am a PhD candidate in Economics at the University of North Carolina at Chapel Hill. My research focuses on macroeconomics, informality and taxation policy.
 
 **Contact:** [roberto.lagos.mondragon@unc.edu](mailto:roberto.lagos.mondragon@unc.edu)
 
