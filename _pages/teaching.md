@@ -17,3 +17,11 @@ author_profile: true
 ### Duke University
 #### Teaching Assistant
 * Econ 602 - Macroeconomic Theory (Fall 2015, Spring 2016)
+
+### Universidad Nacional Autonoma de Honduras
+#### Assistant Professor
+* MM110 - Algebra
+* MM201 - Calculus I
+* MM202 - Calculus II
+* MM401 - Statistics I
+* MM411 - Differential Equations
