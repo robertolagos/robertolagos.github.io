@@ -25,3 +25,5 @@ author_profile: true
 * MM202 - Calculus II
 * MM401 - Statistics I
 * MM411 - Differential Equations
+* IE423 - Probability Theory
+
