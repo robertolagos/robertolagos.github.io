@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Roberto Lagos Mondragon"
+title                    : "Roberto Lagos"
 title_separator          : "-"
-name                     : &name "Roberto Lagos Mondragon"
+name                     : &name "Roberto Lagos"
 description              : &description "Economics Phd candidate at UNC-Chapel Hill"
 url                      : https://robertolagos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
