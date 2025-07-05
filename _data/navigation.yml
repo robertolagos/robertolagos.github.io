@@ -12,5 +12,5 @@ main:
   - title: "CV"
     url: /files/RLagos_CV.pdf
         
-  - title: "Code"
-    url: /code/
+#  - title: "Code"
+#    url: /code/
