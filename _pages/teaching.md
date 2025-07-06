@@ -8,7 +8,7 @@ author_profile: true
 ### UNC-Chapel Hill
 #### Instructor
 * Econ 310 - Microeconomic Theory and Applications (Fall 2023, Spring 2024, Fall 2024, Spring 2025, Fall 2025)
-* Econ 101 - Introduction to Economics (Summer 2024)
+* Econ 101 - Introduction to Economics (Summer 2024) [Syllabus]
 
 #### Teaching Assistant
 * Econ 520 - Advanced Macroeconomic Analysis (Fall 2022)
