@@ -14,4 +14,4 @@ I am a PhD candidate in Economics at the University of North Carolina at Chapel 
 
 **Research interests:** Informality, entrepreneurship, wealth inequality, tax policy
 
-[**CV**](/files/RLagos_CV.pdf) 
+[**CV**](/files/Resume_Lagos_Roberto.pdf) 
